@@ -1,0 +1,6 @@
+uruchomienie:
+    cd McBiblia/Src
+    python .
+    
+tylko testy:
+    python tests.py

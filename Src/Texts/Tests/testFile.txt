@@ -1,0 +1,15 @@
+1: 2 nelines
+
+
+4: cr newline#1
+6: cr newline#27: next is cr
+9: lf cr newline
+10: lf newline#1
+
+
+13: next is lr:
+
+
+16: lf newline#2
+
+18: endfile

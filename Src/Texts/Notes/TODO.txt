@@ -1,0 +1,10 @@
+zak³adki
+fragmenty
+w¹tki
+export
+import
+kolejnosc zafixowana
+ulubione wg kolejnosci
+ilosc wersow
+
+wstepne parsowanie
